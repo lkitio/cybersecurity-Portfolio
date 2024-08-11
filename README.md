@@ -1,4 +1,4 @@
-# Hello, I'm Lionel
+# Hello, I'm Lionel Kitio Donfack
 <a href="https://www.linkedin.com/in/lionel-kitio"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/1WJh-I3PeSuzVGn-PS0M8v7QZgFdGsVHMqzg2p0IRK1M/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
 

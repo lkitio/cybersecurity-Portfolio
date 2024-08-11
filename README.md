@@ -1,7 +1,6 @@
-# cybersecurity-Portfolio
 # Hello, I'm Lionel
-<a href="https://www.linkedin.com/in/michael-hermann-cs"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://docs.google.com/document/d/1jFHG43h7qYRfFlYjHQgBEeMbzNUBSVr1Cn9P2ZJSglQ/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
+<a href="https://www.linkedin.com/in/lionel-kitio"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1WJh-I3PeSuzVGn-PS0M8v7QZgFdGsVHMqzg2p0IRK1M/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
 
 Currently immersed in the Google Cybersecurity Professional Certificate program, I am diligently expanding my expertise in critical technical domains including network security, cryptography, penetration testing, and incident response. Driven by an unyielding passion for cybersecurity, my mission is to safeguard digital assets and combat evolving cyber threats within today's dynamic digital world.
 

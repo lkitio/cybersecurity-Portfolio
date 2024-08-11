@@ -65,7 +65,7 @@ Desire to leverage your expertise to make a positive impact in a SOC team
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> ---In Progess
+<img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 </div>
 
 ## Projects

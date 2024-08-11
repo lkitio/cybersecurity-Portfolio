@@ -10,14 +10,14 @@ Skilled in cloud engineering, infrastructure as code (Terraform, CloudFormation)
 
 
 ## Career Objectives:
-# Cybersecurity:
+### Cybersecurity:
 Leverage my DevOps experience and passion for cybersecurity to secure a role as a Tier 1 Analyst in a Security Operations Center (SOC), where I can utilize my skills to identify and mitigate threats, and contribute to the development of proactive security measures.
 Expand my expertise in security automation, threat modeling, vulnerability assessment, and incident response to become a subject matter expert in cybersecurity.
-# Software Development:
+### Software Development:
 Apply my knowledge of DevSecOps principles to ensure the secure development of software applications, from design to deployment.
 Continuously improve my programming skills in languages such as Python, C++, and Java, and stay up-to-date with the latest software development trends and technologies.
 Collaborate with cross-functional teams to integrate security best practices into the SDLC, preventing vulnerabilities and ensuring the delivery of secure software products.
-# Why:
+### Why:
 As a former DevOps engineer, I've faced numerous security challenges that have driven my passion for cybersecurity. By transitioning into DevSecOps, I've gained a deeper understanding of the importance of integrating security into every stage of the software development lifecycle. Now, I'm eager to bring my unique blend of DevOps and cybersecurity expertise to a SOC team, where I can make a meaningful impact in protecting against threats and vulnerabilities.
 This objective highlights your:
 Career aspirations in cybersecurity and software development

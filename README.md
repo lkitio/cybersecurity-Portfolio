@@ -2,16 +2,28 @@
 <a href="https://www.linkedin.com/in/lionel-kitio"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/1WJh-I3PeSuzVGn-PS0M8v7QZgFdGsVHMqzg2p0IRK1M/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
 
-Currently immersed in the Google Cybersecurity Professional Certificate program, I am diligently expanding my expertise in critical technical domains including network security, cryptography, penetration testing, and incident response. Driven by an unyielding passion for cybersecurity, my mission is to safeguard digital assets and combat evolving cyber threats within today's dynamic digital world.
+a security-focused technologist with a passion for designing, automating, and optimizing secure software delivery workflows. With expertise in CI/CD pipelines, container orchestration (Kubernetes, Docker), and cloud engineering (Azure, AWS, GCP), I'm dedicated to driving DevOps best practices and collaboration.
+About Me
+8+ years of experience in DevSecOps, DevOps, and software engineering
+Proven track record of implementing secure and scalable cloud infrastructure, automating CI/CD pipelines, and optimizing workflows for efficient software delivery
+Skilled in cloud engineering, infrastructure as code (Terraform, CloudFormation), CI/CD tools (Jenkins, GitLab CI/CD), and security practices (security automation, threat modeling, vulnerability assessment)
 
-My professional trajectory is a diverse array of experiences, notably including positions as a Sales Manager at AT&T and as Director of Communications at Keller Williams Realty. Through these roles, I have cultivated invaluable skills in strategic thinking, problem-solving, and effective communication, underscored by a relentless commitment to self-improvement. Notable achievements encompass navigating intricate negotiations to secure pivotal contracts and spearheading communication initiatives that fostered seamless collaboration across departments.
 
-As I embark on my transition into cybersecurity, I am enthusiastic about fusing my technical proficiency with my repertoire of transferable skills to effectuate meaningful change. Anchored in a bedrock of strategic acumen, problem-solving prowess, and polished communication, I stand ready to excel in roles that demand agility, innovation, and a proactive stance against cybersecurity threats.
-
-
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Career Objectives:
+Cybersecurity:
+Leverage my DevOps experience and passion for cybersecurity to secure a role as a Tier 1 Analyst in a Security Operations Center (SOC), where I can utilize my skills to identify and mitigate threats, and contribute to the development of proactive security measures.
+Expand my expertise in security automation, threat modeling, vulnerability assessment, and incident response to become a subject matter expert in cybersecurity.
+Software Development:
+Apply my knowledge of DevSecOps principles to ensure the secure development of software applications, from design to deployment.
+Continuously improve my programming skills in languages such as Python, C++, and Java, and stay up-to-date with the latest software development trends and technologies.
+Collaborate with cross-functional teams to integrate security best practices into the SDLC, preventing vulnerabilities and ensuring the delivery of secure software products.
+Why:
+As a former DevOps engineer, I've faced numerous security challenges that have driven my passion for cybersecurity. By transitioning into DevSecOps, I've gained a deeper understanding of the importance of integrating security into every stage of the software development lifecycle. Now, I'm eager to bring my unique blend of DevOps and cybersecurity expertise to a SOC team, where I can make a meaningful impact in protecting against threats and vulnerabilities.
+This objective highlights your:
+Career aspirations in cybersecurity and software development
+Relevant experience and skills in DevOps and DevSecOps
+Passion for security and commitment to continuous learning
+Desire to leverage your expertise to make a positive impact in a SOC team
 
 ## Skills
 

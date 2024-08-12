@@ -30,11 +30,11 @@ Desire to leverage your expertise to make a positive impact in a SOC team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | TryHackMe Journal          | <a href="https://github.com/Mhermann716/TryHackMe-Journal/blob/main/README.md">TryHackMe Journal</a>|
-| Security Audits | <a href="https://github.com/Mhermann716/Security-Audit/blob/main/README.md">Security Audits</a>|
-| SQL Query         | <a href="https://github.com/Mhermann716/SQL-Querys">SQL Queries</a>|
-| Cyber Incident Report       | <a href="https://github.com/Mhermann716/Cyber-Incident-Report">Cyber Incident Report</a>|
-| Vulnerable Systems Analysis                  | <a href="https://github.com/Mhermann716/Vulnerable-System-Analysis">Vulnerable Systems Analysis</a>|
-| Incident Handler's Journal | <a href="https://github.com/Mhermann716/Incident_Handlers_Journal">Incident Handles Journal</a>|
+| Security Audits | <a href="https://github.com/lkitio/Security-Audit/blob/main/README.md">Security Audits</a>|
+| SQL Query         | <a href="https://github.com/lkitio/SQL-Querys">SQL Queries</a>|
+| Cyber Incident Report       | <a href="https://github.com/lkitio/Cyber-Incident-Report">Cyber Incident Report</a>|
+| Vulnerable Systems Analysis                  | <a href="https://github.com/lkitio/Vulnerable-System-Analysis">Vulnerable Systems Analysis</a>|
+| Incident Handler's Journal | <a href="https://github.com/lkitio/Incident_Handlers_Journal">Incident Handles Journal</a>|
 
 ### Operating Systems
 <div>

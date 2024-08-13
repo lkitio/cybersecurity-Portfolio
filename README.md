@@ -1,6 +1,6 @@
 # Hello, I'm Lionel Kitio Donfack
 <a href="https://www.linkedin.com/in/lionel-kitio"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://docs.google.com/document/d/1WJh-I3PeSuzVGn-PS0M8v7QZgFdGsVHMqzg2p0IRK1M/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
+<a href="https://docs.google.com/document/d/1wrejAFNG23pNKSVBXN5uud_PbxYF9X5lGzZFPTCSb3U/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-blue" /></a>
 
 a security-focused technologist with a passion for designing, automating, and optimizing secure software delivery workflows. With expertise in CI/CD pipelines, container orchestration (Kubernetes, Docker), and cloud engineering (Azure, AWS, GCP), I'm dedicated to driving DevOps best practices and collaboration.
 About Me
